@@ -1,0 +1,19 @@
+{
+  "name": "ettg-markov",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {},
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The Authors",
+  "license": "ISC",
+  "dependencies": {
+    "markov": "0.0.7",
+    "twit": "^1.1.20"
+  }
+}
