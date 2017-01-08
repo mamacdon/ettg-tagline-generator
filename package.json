@@ -13,6 +13,7 @@
   "author": "The Authors",
   "license": "ISC",
   "dependencies": {
+    "chance": "^1.0.4",
     "markov": "0.0.7",
     "twit": "^1.1.20"
   }

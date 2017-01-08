@@ -1,8 +1,6 @@
 #52 Pick-Up
 #8 Million Ways To Die
 #9 1/2 Weeks
-#Another 9 1/2 Half Weeks
-#First 9 1/2 Weeks
 A Bold Affair
 Above Suspicion
 A Brilliant Disguise
@@ -10,6 +8,7 @@ Access Denied
 Acting on Impulse
 #A Gun for Jennifer
 A House in the Hills
+A Kiss Before Dying
 A Kiss to Die For
 Alpha City
 American Gigolo
@@ -19,9 +18,8 @@ Angel Eyes
 Angel in Red
 Angels Of The City
 Animal Instincts
-Animal Instincts 2
-Animal Instincts 3
 Animal Instincts: The Seductress
+#Another 9 1/2 Half Weeks
 A Table for One
 Attraction
 Avenging Angel
@@ -32,9 +30,7 @@ Bad Timing
 Bare Deception
 Bare Witness
 Basic Instinct
-Basic Instinct 2
 Bedroom Eyes
-Bedroom Eyes 2
 Behind Closed Doors
 Betrayal of the Dove
 Betrayed
@@ -52,18 +48,14 @@ Blood Run
 Blown Away
 Bodily Harm
 Body Chemistry
-Body Chemistry 2: Voice of a Stranger
-Body Chemistry 3: Point of Seduction
-Body Chemistry 4: Full Exposure
 Body Double
 Body Heat
 Body Language
 Body of Evidence
 Body of Influence
-Body of Influence 2
 Body Shot
-Bolero
-Bound
+#Bolero
+#Bound
 Boundaries
 Boxing Helena
 Breaking Point
@@ -108,7 +100,7 @@ Dark Secrets
 Dark Tide
 Dead by Dawn
 Dead Heart
-Deadlock - A Passion for Murder
+Deadlock: A Passion for Murder
 Deadly Breed
 Deadly Charades
 Deadly Desire
@@ -151,10 +143,9 @@ Every Breath
 Evil Obsession
 Evil Senses
 Exception to the Rule
-Exit
+#Exit
 Exit in Red
 Exotica
-Expose
 Expose
 Extramarital
 Eyes of Crystal
@@ -179,13 +170,15 @@ Femme Fatale
 Fever
 Final Analysis
 Final Examination
+#First 9 1/2 Weeks
 Five Corners
 Flash Frame
 Fleshtone
 #Flinch
 Footsteps
 Frank & Lola
-Friend of the Family 2
+Friend of the Family
+Full Exposure
 Goddess of Love
 Grievous Bodily Harm
 Gross Misconduct
@@ -216,28 +209,20 @@ Illegal in Blue
 Illicit Behavior
 Illicit Confessions
 Illicit Dreams
-Illicit Dreams 2
-Illicit Dreams 3
 Illusions of Sin
 I Madman
 I'm Dangerous Tonight
 Immortal Sins
 Improper Conduct
 Impulse
-Impulse
 I'm Watching You
 In Dark Places
 Indecent Behavior
-Indecent Behavior 2
-Indecent Behavior 3
-Indecent Behavior 4
 Inner Sanctum
-Inner Sanctum 2
 Innocent Prey
 In the Cold of the Night
 In the Cut
 In the Heat of Passion
-In the Heat of Passion 2: Unfaithful
 Intimate Deception
 Intimate Nights
 Intimate Obsession
@@ -261,7 +246,6 @@ Killing Jar
 Killing Me Softly
 Killing Obsession
 Kill Me Again
-A Kiss Before Dying
 Kissed
 Kissing a Dream
 Kiss Me a Killer
@@ -277,7 +261,6 @@ Lantana
 Lap Dancing
 Laser Moon
 Last Call
-Last Call
 Last Cry
 Last Exit To Brooklyn
 Last Gasp
@@ -286,11 +269,11 @@ Last Seduction
 Last Sunset
 Legal Tender
 Lethal Seduction
-Lethal Seduction
 Liebestraum
 Light Sleeper
 Lipstick Camera
 Liquid Dreams
+Live Girls
 Loser Love
 Losing Control
 Love Cheat and Steal
@@ -311,18 +294,14 @@ Matter Of Trust
 Meridian
 Midnight Blue
 Midnight Confessions
-Midnight Confessions
 Midnight Tease
-Midnight Tease 2
 Midnight Temptations
 Mind Games
 Mind Twister
 Mirror Images
-Mirror Images 2
 Mirror, Mirror III: The Voyeur
 Mischievous
 Mistress of Seduction
-Mistress of Seduction 2
 Monsoon
 Mortal Passions
 Ms. 45
@@ -340,9 +319,6 @@ Naked Souls
 Night Angel
 Night Class
 Night Eyes
-Night Eyes 2
-Night Eyes 3
-Night Eyes 4: Fatal Passion
 Night Fire
 Night Games
 Nightkill
@@ -376,13 +352,12 @@ Playmaker
 Play Nice
 Plush
 Poet
+Point of Seduction
 Poison
 Poison Ivy
-Poison Ivy 2
 Poison Ivy: The New Seduction
 Portrait in Red
 Possessed by the Night
-Powerplay
 Powerplay
 Prey of the Chameleon
 Prime Suspect
@@ -395,7 +370,6 @@ Raw Heat
 Raw Nerve
 Rebecca's Secret
 Road Games
-Road Games
 Roots of Evil
 Ruby Cairo
 Saturday Night Special
@@ -403,13 +377,10 @@ Save Me
 Scandalous Behavior
 Scoring
 Scorned
-Scorned 2
 Scream For Help
 Sea of Love
 Secret Friend
 Secret Games
-Secret Games 2: The Escort
-Secret Games 3
 Secret Sins
 Secrets Of A Married Man
 Secret Weapons
@@ -433,7 +404,7 @@ Sheer Passion
 Showgirl Murders
 Showgirls
 Siesta
-Silk 2
+Silk
 Silk Degrees
 Sinful Intrigue
 Singapore Sling
@@ -455,13 +426,11 @@ Stormy Nights
 Strangers Online
 Striking Resemblance
 Stripped To Kill
-Stripped To Kill 2: Live Girls
 Stripteaser
 Summer Heat
 Tainted Love
 Take Two
 Tales of the Kama Sutra
-Tales of the Kama Sutra 2
 Target for Seduction
 Tattoo
 Teach Me Tonight
@@ -486,7 +455,6 @@ The Dark Dancer
 The Dark Side To Love
 The Drifter
 The Escort
-The Escort 3
 The Ex
 The Fear Inside
 The Final Embrace
@@ -497,7 +465,7 @@ The Heart of Justice
 The Hot Spot
 The Killer Inside
 The Kreutzer Sonata
-The Last Seduction 2
+The Last Seduction
 The Legend Of Wolf Lodge
 The Little Death
 The Most Dangerous Woman Alive
@@ -524,12 +492,11 @@ Tollbooth
 Tomcat: Dangerous Desires
 To the Limit
 Trail Of Passion
-Trance
-Trapped
+#Trance
 Trapped
 Tricks
 Triplecross
-Trois
+#Trois
 Tropical Heat
 Tryst
 Twin Sisters
@@ -553,9 +520,10 @@ Victim of Love
 Virtual Desire
 Virtual Girl
 Virtual Seduction
+Voice of a Stranger
 Voices Of Seduction
-Vortex
-Voyeur
+#Vortex
+#Voyeur
 Walnut Creek
 Warm Texas Rain
 Web of Seduction
@@ -568,7 +536,7 @@ Wicked Minds
 Wicker Park
 Widows Kiss
 Wild Cactus
-Wild Orchid 2: Two Shades of Blue
+Wild Orchid
 Wild Side
 Woman of Desire
 Woman's Secret
