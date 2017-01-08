@@ -3,7 +3,6 @@ env:
 
 rules:
     camelcase: 0
-    indent: 4
     no-mixed-requires: 0
     no-multi-spaces: 0
     no-underscore-dangle: 0
