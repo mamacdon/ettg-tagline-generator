@@ -1,12 +1,14 @@
-52 Pick-Up
-8 Million Ways To Die
-9 1/2 Weeks
+#52 Pick-Up
+#8 Million Ways To Die
+#9 1/2 Weeks
+#Another 9 1/2 Half Weeks
+#First 9 1/2 Weeks
 A Bold Affair
 Above Suspicion
 A Brilliant Disguise
 Access Denied
 Acting on Impulse
-A Gun for Jennifer
+#A Gun for Jennifer
 A House in the Hills
 A Kiss to Die For
 Alpha City
@@ -20,7 +22,6 @@ Animal Instincts
 Animal Instincts 2
 Animal Instincts 3
 Animal Instincts: The Seductress
-Another 9 1/2 Half Weeks
 A Table for One
 Attraction
 Avenging Angel
@@ -75,10 +76,10 @@ Cat People
 Cherry Falls
 China Girl
 China Moon
-Chloe
+#Chloe
 Clean Kill
 Close My Eyes
-Coda
+#Coda
 Cold Comfort
 Cold Sweat
 Color of Night
@@ -87,11 +88,11 @@ Compulsion
 Confessions of a Call Girl
 Confessions of a Lap Dancer
 Cover Me
-Crash
+#Crash
 Crimes Of Passion
 Criminal Intent
 Criminal Passion
-Cruising
+#Cruising
 Dance With Death
 Dangerous Affair
 Dangerous Attraction
@@ -130,7 +131,7 @@ Desire
 Desire and Hell at Sunset Motel
 Devil In The Flesh
 Devil in the Flesh
-Diabolique
+#Diabolique
 Dial Help
 Die Watching
 Disclosure
@@ -143,7 +144,7 @@ Double Jeopardy
 Double Threat
 Dream Lover
 Dressed To Kill
-Echo
+#Echo
 Electra
 Erotic Boundaries
 Every Breath
@@ -166,7 +167,7 @@ Fatal Attraction
 Fatal Bond
 Fatal Charm
 Fatal Exposure
-Fatal Instinct (dir. John Dirlam)
+Fatal Instinct
 Fatal Passion
 Fatal Past
 Fatal Proposal
@@ -178,11 +179,10 @@ Femme Fatale
 Fever
 Final Analysis
 Final Examination
-First 9 1/2 Weeks
 Five Corners
 Flash Frame
 Fleshtone
-Flinch
+#Flinch
 Footsteps
 Frank & Lola
 Friend of the Family 2
@@ -261,7 +261,7 @@ Killing Jar
 Killing Me Softly
 Killing Obsession
 Kill Me Again
-Kiss Before Dying, A
+A Kiss Before Dying
 Kissed
 Kissing a Dream
 Kiss Me a Killer
@@ -352,7 +352,7 @@ Night Shade
 Night Visitor
 Number One Fan
 Object of Obsession
-Obsessed (dir. Jonathan Sanger)
+Obsessed
 Obsession A Taste For Fear
 One Good Turn
 Open House
@@ -502,16 +502,14 @@ The Legend Of Wolf Lodge
 The Little Death
 The Most Dangerous Woman Alive
 The Other Man
-The Other Woman  (dir. Jag Mundhra)
+The Other Woman
 The Pamela Principle
-The Postman Always Rings Twice
-The Postman Always Rings Twice
+#The Postman Always Rings Twice
 The Price of Desire
 The Seduction
 The Silencer
 The Smile of the Fox
 The Surrogate
-The This Worldn the Fireworks
 The Tribe
 The Wind
 The Wrong Man
