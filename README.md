@@ -2,6 +2,8 @@
 
 ## Installation
 
+    npm install
+
 ## Usage
 
 ## Configuration
