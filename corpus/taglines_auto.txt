@@ -246,7 +246,7 @@ In the night, secrets are stolen
 In the steamy clubs of Los Angeles, a psychopath is loose. She bared all to get to the truth.
 It all went wrong
 It's 4 years later. She's graduating college. The cop who got her off the street has been murdered. ANGEL's back… with a vengeance!
-It's a fun and fanciful ride with Mr. Toad at the wheel!
+#It's a fun and fanciful ride with Mr. Toad at the wheel!
 It's a hot summer. Ned Racine is waiting for something special to happen. And when it does… He won't be ready for the consequences.
 It's a killer place to be.
 It's all about power
@@ -305,6 +305,7 @@ No inhibitions. No boundaries. No rules.
 No justice will satisfy her blind rage…
 No man will ever be safe again.
 No one believed her until it was too late.
+No showgirl is safe on the streets of…
 No showgirl is safe on the streets of… Fear City
 Nothing is forbidden
 Nothing is forbidden.
@@ -399,7 +400,7 @@ She wants it all…
 She wants it all… & she wants it now…
 She was abused and violated. It will never happen again!
 She was a real looker, but I knew if she got the chance, she'd put a bullet in my back. Dames are funny that way.
-She was seducted into a world of sexual adventure… And dangerous deception.
+She was seduced into a world of sexual adventure… And dangerous deception.
 She will awaken a curse of Passion
 She will do anything to win!
 She will love you to death.
@@ -553,4 +554,4 @@ You never know whos watching.. Watchings dangerous, touchings deadly.
 Your journey starts here…
 Your throat dries, heart pounds, flesh crawls and you panic… That is the fear of…
 You think you're alone… You're not.
-You Will feel the heat.
+You will feel the heat.
