@@ -23,3 +23,7 @@ export MARKOV_LIMIT=20
 
 ## License
 MIT
+
+### TODO
+forget this markov shit, the results are disappointing
+just split sentences at obvious boundaries and combine using grammar
