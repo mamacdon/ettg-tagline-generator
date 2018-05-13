@@ -9,4 +9,4 @@
     $(npm bin)/generate-taglines
 
 ## License
-ISC
+MIT
